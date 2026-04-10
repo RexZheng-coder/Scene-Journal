@@ -63,8 +63,6 @@ The minimum deployment target in the package is iOS 16.0.
 
 - [SceneJournal.swiftpm](/Users/rexzheng/Columbia/Apple-swift-challenge/SceneJournal.swiftpm): main Swift Playgrounds app
 - [docs/screenshots](/Users/rexzheng/Columbia/Apple-swift-challenge/docs/screenshots): screenshots used for presentation and documentation
-- [archive/backups](/Users/rexzheng/Columbia/Apple-swift-challenge/archive/backups): local zip backups, excluded from git
-- [archive/legacy](/Users/rexzheng/Columbia/Apple-swift-challenge/archive/legacy): older experiments and unrelated project folders, excluded from git
 
 ## Screenshots
 
@@ -72,4 +70,4 @@ Challenge presentation images are stored in [docs/screenshots](/Users/rexzheng/C
 
 ## Git Notes
 
-This repository is organized around the `SceneJournal.swiftpm` app. Build artifacts, local backups, generated workspace data, and older experiments are excluded so the repo stays clean and easier to maintain.
+This repository is organized around the `SceneJournal.swiftpm` app. Build artifacts and generated workspace data are excluded so the repo stays clean and easier to maintain.
